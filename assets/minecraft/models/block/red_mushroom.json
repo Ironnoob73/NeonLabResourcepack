@@ -1,0 +1,64 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"mushroom": "minecraft:block/solid/red_mushroom",
+		"particle": "minecraft:block/red_mushroom"
+	},
+	"elements": [
+		{
+			"from": [3, 4.5, 4.5],
+			"to": [8, 4.5, 11.5],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 5, 7]},
+			"faces": {
+				"up": {"uv": [0, 0, 7, 5], "rotation": 90, "texture": "#mushroom"},
+				"down": {"uv": [0, 0, 7, 5], "rotation": 90, "texture": "#mushroom"}
+			}
+		},
+		{
+			"from": [8, 4.5, 4.5],
+			"to": [13, 4.5, 11.5],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 5, 7.5]},
+			"faces": {
+				"up": {"uv": [0, 0, 7, 5], "rotation": 270, "texture": "#mushroom"},
+				"down": {"uv": [0, 0, 7, 5], "rotation": 270, "texture": "#mushroom"}
+			}
+		},
+		{
+			"from": [4.5, 4.5, 3],
+			"to": [11.5, 4.5, 8],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 5, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 7, 5], "rotation": 180, "texture": "#mushroom"},
+				"down": {"uv": [0, 0, 7, 5], "texture": "#mushroom"}
+			}
+		},
+		{
+			"from": [4.5, 4.5, 8],
+			"to": [11.5, 4.5, 13],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 5, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 7, 5], "texture": "#mushroom"},
+				"down": {"uv": [0, 0, 7, 5], "rotation": 180, "texture": "#mushroom"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 4, 9],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 5, 2, 9], "texture": "#mushroom"},
+				"east": {"uv": [0, 5, 2, 9], "texture": "#mushroom"},
+				"south": {"uv": [0, 5, 2, 9], "texture": "#mushroom"},
+				"west": {"uv": [0, 5, 2, 9], "texture": "#mushroom"},
+				"up": {"uv": [2, 7, 4, 9], "texture": "#mushroom"},
+				"down": {"uv": [2, 5, 4, 7], "texture": "#mushroom", "cullface": "down"}
+			}
+		}
+	]
+}
