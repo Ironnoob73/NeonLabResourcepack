@@ -1,0 +1,11 @@
+{
+   "targets": [
+      "minecraft:stone",
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:diorite"
+   ],
+   "append": [
+      "minecraft:block/additional_overlay/gravel_overlay"
+   ]
+}

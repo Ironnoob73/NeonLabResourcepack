@@ -1,0 +1,19 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+    { "type": "is_same_block"},
+    { "type": "match_block", "block": "minecraft:coal_ore"},
+    { "type": "match_block", "block": "minecraft:iron_ore"},
+    { "type": "match_block", "block": "minecraft:copper_ore"},
+    { "type": "match_block", "block": "minecraft:gold_ore"},
+    { "type": "match_block", "block": "minecraft:redstone_ore"},
+    { "type": "match_block", "block": "minecraft:emerald_ore"},
+    { "type": "match_block", "block": "minecraft:lapis_ore"},
+    { "type": "match_block", "block": "minecraft:diamond_ore"}
+  ],
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/stone"
+  }
+}

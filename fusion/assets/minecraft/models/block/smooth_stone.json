@@ -1,0 +1,12 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+      { "type": "is_same_block"}
+  ],
+  "parent": "minecraft:block/cube_all_overlay",
+  "textures": {
+    "base": "minecraft:block/smooth_stone",
+    "overlay": "minecraft:block/smooth_stone_emmersive"
+  }
+}

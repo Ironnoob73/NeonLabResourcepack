@@ -1,0 +1,9 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/cube_all_overlay",
+  "textures": {
+    "base": "minecraft:block/diamond_ore",
+    "overlay": "minecraft:block/diamond_ore_emmersive"
+  }
+}

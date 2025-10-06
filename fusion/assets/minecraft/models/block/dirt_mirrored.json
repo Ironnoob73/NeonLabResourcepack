@@ -1,0 +1,18 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+    { "type": "is_same_block"},
+    { "type": "match_block", "block": "minecraft:grass_block"},
+    { "type": "match_block", "block": "minecraft:podzol"},
+    { "type": "match_block", "block": "minecraft:mycelium"},
+    { "type": "match_block", "block": "minecraft:dirt_path"},
+    { "type": "match_block", "block": "minecraft:coarse_dirt"},
+    { "type": "match_block", "block": "minecraft:rooted_dirt"},
+    { "type": "match_block", "block": "minecraft:farmland"}
+  ],
+  "parent": "minecraft:block/cube_mirrored_all",
+  "textures": {
+    "all": "minecraft:block/dirt"
+  }
+}

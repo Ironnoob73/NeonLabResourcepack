@@ -1,0 +1,9 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/cube_all_overlay",
+  "textures": {
+    "base": "minecraft:block/deepslate_copper_ore",
+    "overlay": "minecraft:block/copper_ore_emmersive"
+  }
+}

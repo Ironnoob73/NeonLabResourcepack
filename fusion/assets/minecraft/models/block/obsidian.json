@@ -1,0 +1,13 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+      { "type": "is_same_block"}
+  ],
+  "parent": "minecraft:block/cube_all_outline_overlay",
+  "textures": {
+    "base": "minecraft:block/obsidian",
+    "overlay": "minecraft:block/obsidian_emmersive",
+    "outline": "minecraft:block/obsidian_outline"
+  }
+}

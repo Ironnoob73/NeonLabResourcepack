@@ -1,0 +1,12 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+    { "type": "is_same_block"},
+    { "type": "match_block", "block": "minecraft:oak_log"}
+  ],
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/oak_leaves_connected"
+  }
+}

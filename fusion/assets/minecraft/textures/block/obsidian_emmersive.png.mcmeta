@@ -1,0 +1,9 @@
+{
+   "fusion": {
+      "type": "continuous",
+      "rows": 10,
+      "columns": 7,
+      "render_type": "cutout",
+      "emissive": true
+   }
+}
