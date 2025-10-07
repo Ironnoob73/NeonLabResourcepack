@@ -1,0 +1,38 @@
+{
+    "loader": "fusion:model",
+    "type": "base",
+    "parent": "block/block",
+    "textures": {
+        "top": "minecraft:block/crafting_table_top",
+        "front": "minecraft:block/crafting_table_front",
+        "side": "minecraft:block/crafting_table_side",
+        "top_overlay": "minecraft:block/crafting_table_top_emmersive",
+        "front_overlay": "minecraft:block/crafting_table_front_emmersive",
+        "side_overlay": "minecraft:block/crafting_table_side_emmersive",
+        "particle": "#front"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#top", "cullface": "down" },
+                "up":    { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#front", "cullface": "north" },
+                "south": { "texture": "#front", "cullface": "south" },
+                "west":  { "texture": "#side", "cullface": "west" },
+                "east":  { "texture": "#side", "cullface": "east" }
+            }
+        },
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#top_overlay", "cullface": "down" },
+                "up":    { "texture": "#top_overlay", "cullface": "up" },
+                "north": { "texture": "#front_overlay", "cullface": "north" },
+                "south": { "texture": "#front_overlay", "cullface": "south" },
+                "west":  { "texture": "#side_overlay", "cullface": "west" },
+                "east":  { "texture": "#side_overlay", "cullface": "east" }
+            }
+        }
+    ]
+}

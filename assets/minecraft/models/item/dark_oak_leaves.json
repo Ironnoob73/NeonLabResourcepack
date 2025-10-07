@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/additional/persistent_dark_oak_leaves",
+	"gui_light": "front"
+}

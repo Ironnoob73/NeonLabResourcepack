@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/additional/persistent_jungle_leaves",
+	"gui_light": "front"
+}

@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/additional/persistent_spruce_leaves",
+	"gui_light": "front"
+}
