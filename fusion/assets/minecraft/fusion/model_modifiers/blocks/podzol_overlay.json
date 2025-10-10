@@ -7,10 +7,11 @@
       "minecraft:granite",
       "minecraft:diorite",
       "minecraft:andesite",
+      "minecraft:gravel",
       "minecraft:cobblestone",
       "minecraft:mossy_cobblestone"
    ],
    "append": [
-      "minecraft:block/additional_overlay/gravel_overlay"
+      "minecraft:block/additional_overlay/podzol_overlay"
    ]
 }

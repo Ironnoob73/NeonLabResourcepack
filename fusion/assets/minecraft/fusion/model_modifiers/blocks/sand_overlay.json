@@ -2,9 +2,16 @@
    "targets": [
       "minecraft:stone",
       "minecraft:dirt",
+      "minecraft:coarse_dirt",
+      "minecraft:clay",
       "minecraft:grass_block",
+      "minecraft:podzol",
+      "minecraft:granite",
       "minecraft:diorite",
-      "minecraft:gravel"
+      "minecraft:andesite",
+      "minecraft:gravel",
+      "minecraft:cobblestone",
+      "minecraft:mossy_cobblestone"
    ],
    "append": [
       "minecraft:block/additional_overlay/sand_overlay"
