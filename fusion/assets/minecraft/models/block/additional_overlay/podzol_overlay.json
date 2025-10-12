@@ -13,6 +13,6 @@
   "parent": "minecraft:block/cube_top",
   "textures": {
     "top": "minecraft:block/podzol_top_overlay",
-    "side": "minecraft:block/null"
+    "side": "minecraft:block/solid/null"
   }
 }

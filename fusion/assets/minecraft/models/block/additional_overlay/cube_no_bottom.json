@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/cube",
     "textures": {
-        "down": "minecraft:block/null",
+        "down": "minecraft:block/solid/null",
         "up": "#top",
         "north": "#side",
         "south": "#side",

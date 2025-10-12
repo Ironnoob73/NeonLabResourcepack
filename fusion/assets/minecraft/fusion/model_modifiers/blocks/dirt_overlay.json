@@ -1,0 +1,8 @@
+{
+   "targets": [
+      "minecraft:coarse_dirt"
+   ],
+   "append": [
+      "minecraft:block/additional_overlay/dirt_overlay"
+   ]
+}

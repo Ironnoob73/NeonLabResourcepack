@@ -4,9 +4,9 @@
 	"parent": "minecraft:block//block",
 	"texture_size": [32, 32],
 	"textures": {
-		"fan": "minecraft:block/solid/dandelion",
-		"stem": "minecraft:block/solid/plant_stem",
-		"particle": "minecraft:block/dandelion"
+		"fan": "block/solid/dandelion",
+		"stem": "block/solid/plant_stem",
+		"particle": "block/dandelion"
 	},
 	"elements": [
 		{
@@ -72,5 +72,39 @@
 				"south": {"uv": [15, 9, 9, 15], "rotation": 270, "texture": "#fan"}
 			}
 		}
-	]
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 10, -15],
+			"translation": [2, 3, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 10, -15],
+			"translation": [2, 3, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [0, 180, 0]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
+		}
+	}
 }
