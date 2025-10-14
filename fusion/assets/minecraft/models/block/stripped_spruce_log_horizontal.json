@@ -3,11 +3,11 @@
   "type": "connecting",
   "connections": [
       { "type": "is_same_block"},
-      { "type": "match_block", "block": "minecraft:stripped_spruce_log"}
+      { "type": "match_block", "block": "minecraft:spruce_log"}
   ],
   "parent": "minecraft:block/cube_column_horizontal",
   "textures": {
-    "end": "minecraft:block/spruce_log_top",
-    "side": "minecraft:block/spruce_log"
+    "end": "minecraft:block/stripped_spruce_log_top",
+    "side": "minecraft:block/stripped_spruce_log"
   }
 }
