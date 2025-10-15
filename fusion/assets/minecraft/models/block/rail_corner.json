@@ -1,0 +1,9 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/rail_curved",
+  "textures": {
+    "rail": "minecraft:block/rail_corner",
+    "overlay": "minecraft:block/rail_corner_emmersive"
+  }
+}

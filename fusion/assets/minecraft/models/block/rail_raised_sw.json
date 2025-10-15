@@ -1,0 +1,9 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/template_rail_raised_sw",
+  "textures": {
+    "rail": "minecraft:block/rail",
+    "overlay": "minecraft:block/rail_emmersive"
+  }
+}

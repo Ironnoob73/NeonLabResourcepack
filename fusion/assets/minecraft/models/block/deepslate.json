@@ -10,7 +10,8 @@
     { "type": "match_block", "block": "minecraft:deepslate_redstone_ore"},
     { "type": "match_block", "block": "minecraft:deepslate_emerald_ore"},
     { "type": "match_block", "block": "minecraft:deepslate_lapis_ore"},
-    { "type": "match_block", "block": "minecraft:deepslate_diamond_ore"}
+    { "type": "match_block", "block": "minecraft:deepslate_diamond_ore"},
+    { "type": "match_block", "block": "minecraft:tuff"}
   ],
   "parent": "minecraft:block/cube_column",
   "textures": {
