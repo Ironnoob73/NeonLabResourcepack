@@ -1,0 +1,11 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/cube_column_overlay",
+  "textures": {
+    "end": "minecraft:block/red_sandstone_top",
+    "side": "minecraft:block/chiseled_red_sandstone",
+    "end_overlay": "minecraft:block/solid/null",
+    "side_overlay": "minecraft:block/chiseled_red_sandstone_emmersive"
+  }
+}
