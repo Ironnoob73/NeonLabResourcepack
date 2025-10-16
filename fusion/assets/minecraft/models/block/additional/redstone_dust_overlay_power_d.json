@@ -1,0 +1,9 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/rail_flat",
+  "textures": {
+    "rail": "minecraft:block/solid/redstone_dust_overlay_power_d",
+    "overlay": "minecraft:block/solid/null"
+  }
+}
