@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "all": "minecraft:block/spawner"
+  },
+  "elements": [
+    {
+      "from": [15.998, 0.002, 0.002],
+      "to": [0.002, 15.998, 15.998],
+      "faces": {
+        "north": {"uv": [16, 0, 0, 16], "texture": "#all"},
+        "east": {"uv": [16, 0, 0, 16], "texture": "#all"},
+        "south": {"uv": [16, 0, 0, 16], "texture": "#all"},
+        "west": {"uv": [16, 0, 0, 16], "texture": "#all"},
+        "up": {"uv": [16, 0, 0, 16], "texture": "#all"},
+        "down": {"uv": [16, 0, 0, 16], "texture": "#all"}
+      }
+    }
+  ]
+}
