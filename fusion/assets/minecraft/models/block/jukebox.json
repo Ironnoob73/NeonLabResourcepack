@@ -1,0 +1,13 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/cube_bottom_top_overlay",
+  "textures": {
+    "side": "minecraft:block/jukebox_side",
+    "top": "minecraft:block/jukebox_top",
+    "bottom": "minecraft:block/solid/jukebox_bottom",
+    "side_overlay": "minecraft:block/jukebox_side_emmersive",
+    "top_overlay": "minecraft:block/solid/null",
+    "bottom_overlay": "minecraft:block/solid/null"
+  }
+}

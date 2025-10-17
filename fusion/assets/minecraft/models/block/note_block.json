@@ -1,0 +1,13 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/cube_bottom_top_overlay",
+  "textures": {
+    "side": "minecraft:block/solid/note_block_side",
+    "top": "minecraft:block/note_block",
+    "bottom": "minecraft:block/solid/note_block_bottom",
+    "side_overlay": "minecraft:block/solid/null",
+    "top_overlay": "minecraft:block/note_block_emmersive",
+    "bottom_overlay": "minecraft:block/solid/null"
+  }
+}
