@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/redstone/repeater_tick_1",
+  "textures": {
+		"tick": "block/solid/repeater/tick_2"
+  }
+}

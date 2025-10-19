@@ -1,0 +1,12 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+    { "type": "is_same_state"}
+  ],
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/basalt_top",
+    "side": "minecraft:block/basalt_side"
+  }
+}

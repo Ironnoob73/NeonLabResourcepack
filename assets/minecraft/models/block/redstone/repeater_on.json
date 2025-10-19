@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/redstone/repeater_off",
+  "textures": {
+		"component": "block/solid/repeater/on"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/redstone/component_base",
+  "textures": {
+		"top": "block/solid/smooth_stone_dashed",
+		"side": "block/solid/smooth_stone_slab_side_dashed"
+  }
+}

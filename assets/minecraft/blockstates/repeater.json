@@ -1,0 +1,30 @@
+{
+  "multipart":[
+    { "when": { "locked": "false"}, "apply": { "model": "minecraft:block/redstone/component_base"}},
+    { "when": { "locked": "true"}, "apply": { "model": "minecraft:block/redstone/component_base_dashed"}},
+    { "when": { "powered": "false", "facing": "south"}, "apply": { "model": "minecraft:block/redstone/repeater_off"}},
+    { "when": { "powered": "false", "facing": "north"}, "apply": { "model": "minecraft:block/redstone/repeater_off", "y": 180}},
+    { "when": { "powered": "false", "facing": "west"}, "apply": { "model": "minecraft:block/redstone/repeater_off", "y": 90}},
+    { "when": { "powered": "false", "facing": "east"}, "apply": { "model": "minecraft:block/redstone/repeater_off", "y": 270}},
+    { "when": { "powered": "true", "facing": "south"}, "apply": { "model": "minecraft:block/redstone/repeater_on"}},
+    { "when": { "powered": "true", "facing": "north"}, "apply": { "model": "minecraft:block/redstone/repeater_on", "y": 180}},
+    { "when": { "powered": "true", "facing": "west"}, "apply": { "model": "minecraft:block/redstone/repeater_on", "y": 90}},
+    { "when": { "powered": "true", "facing": "east"}, "apply": { "model": "minecraft:block/redstone/repeater_on", "y": 270}},
+    { "when": { "delay": "1", "facing": "south"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_1"}},
+    { "when": { "delay": "1", "facing": "north"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_1", "y": 180}},
+    { "when": { "delay": "1", "facing": "west"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_1", "y": 90}},
+    { "when": { "delay": "1", "facing": "east"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_1", "y": 270}},
+    { "when": { "delay": "2", "facing": "south"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_2"}},
+    { "when": { "delay": "2", "facing": "north"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_2", "y": 180}},
+    { "when": { "delay": "2", "facing": "west"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_2", "y": 90}},
+    { "when": { "delay": "2", "facing": "east"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_2", "y": 270}},
+    { "when": { "delay": "3", "facing": "south"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_3"}},
+    { "when": { "delay": "3", "facing": "north"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_3", "y": 180}},
+    { "when": { "delay": "3", "facing": "west"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_3", "y": 90}},
+    { "when": { "delay": "3", "facing": "east"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_3", "y": 270}},
+    { "when": { "delay": "4", "facing": "south"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_4"}},
+    { "when": { "delay": "4", "facing": "north"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_4", "y": 180}},
+    { "when": { "delay": "4", "facing": "west"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_4", "y": 90}},
+    { "when": { "delay": "4", "facing": "east"}, "apply": { "model": "minecraft:block/redstone/repeater_tick_4", "y": 270}}
+  ]
+}

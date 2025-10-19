@@ -1,0 +1,11 @@
+{
+   "targets": [
+      "minecraft:netherrack",
+      "minecraft:soul_soil",
+      "minecraft:basalt",
+      "minecraft:blackstone"
+   ],
+   "append": [
+      "minecraft:block/additional_overlay/soul_sand_overlay"
+   ]
+}

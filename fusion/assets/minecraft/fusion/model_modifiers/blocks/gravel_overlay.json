@@ -8,10 +8,10 @@
       "minecraft:diorite",
       "minecraft:andesite",
       "minecraft:cobblestone",
-      "minecraft:mossy_cobblestone"
+      "minecraft:mossy_cobblestone",
+      "minecraft:netherrack"
    ],
    "append": [
       "minecraft:block/additional_overlay/gravel_overlay"
-   ],
-   "show_breaking_overlay": true
+   ]
 }
