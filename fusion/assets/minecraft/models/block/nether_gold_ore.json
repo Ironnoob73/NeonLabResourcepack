@@ -1,0 +1,9 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parent": "minecraft:block/cube_all_overlay",
+  "textures": {
+    "base": "minecraft:block/nether_gold_ore",
+    "overlay": "minecraft:block/gold_ore_emmersive"
+  }
+}

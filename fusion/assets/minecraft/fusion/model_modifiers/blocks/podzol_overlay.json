@@ -13,5 +13,6 @@
    ],
    "append": [
       "minecraft:block/additional_overlay/podzol_overlay"
-   ]
+   ],
+   "show_breaking_overlay": true
 }

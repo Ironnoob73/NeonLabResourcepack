@@ -4,5 +4,6 @@
    ],
    "append": [
       "minecraft:block/additional_overlay/dirt_overlay"
-   ]
+   ],
+   "show_breaking_overlay": true
 }

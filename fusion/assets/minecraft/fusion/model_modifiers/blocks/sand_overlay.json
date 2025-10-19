@@ -15,5 +15,6 @@
    ],
    "append": [
       "minecraft:block/additional_overlay/sand_overlay"
-   ]
+   ],
+   "show_breaking_overlay": true
 }
