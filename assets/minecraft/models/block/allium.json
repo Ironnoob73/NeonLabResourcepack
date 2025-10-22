@@ -1,0 +1,69 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"allium": "block/solid/allium",
+		"stem": "block/solid/plant_stem",
+		"particle": "block/allium"
+	},
+	"elements": [
+		{
+			"from": [5, 8, 5],
+			"to": [11, 14, 11],
+			"faces": {
+				"north": {"uv": [0, 6, 6, 12], "texture": "#allium"},
+				"east": {"uv": [0, 6, 6, 12], "texture": "#allium"},
+				"south": {"uv": [0, 6, 6, 12], "texture": "#allium"},
+				"west": {"uv": [0, 6, 6, 12], "texture": "#allium"},
+				"up": {"uv": [0, 0, 6, 6], "texture": "#allium"},
+				"down": {"uv": [6, 0, 12, 6], "texture": "#allium"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 8, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 8], "texture": "#stem"},
+				"east": {"uv": [0, 0, 2, 8], "texture": "#stem"},
+				"south": {"uv": [0, 0, 2, 8], "texture": "#stem"},
+				"west": {"uv": [0, 0, 2, 8], "texture": "#stem"},
+				"down": {"uv": [2, 0, 4, 2], "texture": "#stem", "cullface": "down"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -45, 0],
+			"translation": [0, 5, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -45, 0],
+			"translation": [0, 5, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -15, 25],
+			"translation": [7, 0, -5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -15, 25],
+			"translation": [7, 0, -5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [30, 45, 0]
+		},
+		"head": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 10, 0]
+		}
+	}
+}
