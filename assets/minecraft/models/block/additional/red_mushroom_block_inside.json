@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_single_face",
+    "textures": {
+        "texture": "block/solid/red_mushroom_block_inside"
+    }
+}

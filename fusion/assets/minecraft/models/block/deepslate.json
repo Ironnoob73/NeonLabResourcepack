@@ -11,7 +11,8 @@
     { "type": "match_block", "block": "minecraft:deepslate_emerald_ore"},
     { "type": "match_block", "block": "minecraft:deepslate_lapis_ore"},
     { "type": "match_block", "block": "minecraft:deepslate_diamond_ore"},
-    { "type": "match_block", "block": "minecraft:tuff"}
+    { "type": "match_block", "block": "minecraft:tuff"},
+    { "type": "match_block", "block": "minecraft:infested_deepslate"}
   ],
   "parent": "minecraft:block/cube_column",
   "textures": {
