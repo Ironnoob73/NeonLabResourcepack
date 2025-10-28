@@ -4,7 +4,7 @@
   "parent": "minecraft:block/block",
   "textures": {
     "all": "minecraft:block/spawner",
-    "overlay": "minecraft:block/spawner_emmersive"
+    "overlay": "minecraft:block/spawner_emissive"
   },
   "elements": [
     {

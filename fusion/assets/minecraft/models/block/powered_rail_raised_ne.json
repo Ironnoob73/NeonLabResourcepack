@@ -4,6 +4,6 @@
   "parent": "minecraft:block/template_rail_raised_ne",
   "textures": {
     "rail": "minecraft:block/powered_rail",
-    "overlay": "minecraft:block/powered_rail_emmersive"
+    "overlay": "minecraft:block/powered_rail_emissive"
   }
 }

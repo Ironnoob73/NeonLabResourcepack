@@ -9,8 +9,8 @@
     "bottom": "minecraft:block/smooth_stone",
     "side": "minecraft:block/smooth_stone_slab_side",
     "top": "minecraft:block/smooth_stone",
-    "bottom_overlay": "minecraft:block/smooth_stone_emmersive",
-    "side_overlay": "minecraft:block/smooth_stone_slab_side_emmersive",
-    "top_overlay": "minecraft:block/smooth_stone_emmersive"
+    "bottom_overlay": "minecraft:block/smooth_stone_emissive",
+    "side_overlay": "minecraft:block/smooth_stone_slab_side_emissive",
+    "top_overlay": "minecraft:block/smooth_stone_emissive"
   }
 }

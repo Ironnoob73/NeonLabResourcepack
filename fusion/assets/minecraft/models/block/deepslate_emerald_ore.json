@@ -4,6 +4,6 @@
   "parent": "minecraft:block/cube_all_overlay",
   "textures": {
     "base": "minecraft:block/deepslate_emerald_ore",
-    "overlay": "minecraft:block/emerald_ore_emmersive"
+    "overlay": "minecraft:block/emerald_ore_emissive"
   }
 }

@@ -4,6 +4,6 @@
   "parent": "minecraft:block/template_rail_raised_ne",
   "textures": {
     "rail": "minecraft:block/activator_rail",
-    "overlay": "minecraft:block/activator_rail_emmersive"
+    "overlay": "minecraft:block/activator_rail_emissive"
   }
 }

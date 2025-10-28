@@ -4,6 +4,6 @@
   "parent": "minecraft:block/template_rail_raised_ne",
   "textures": {
     "rail": "minecraft:block/detector_rail",
-    "overlay": "minecraft:block/detector_rail_emmersive"
+    "overlay": "minecraft:block/detector_rail_emissive"
   }
 }

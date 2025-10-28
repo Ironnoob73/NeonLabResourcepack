@@ -4,6 +4,6 @@
   "parent": "minecraft:block/cube_all_overlay",
   "textures": {
     "base": "minecraft:block/gilded_blackstone",
-    "overlay": "minecraft:block/gold_ore_emmersive"
+    "overlay": "minecraft:block/gold_ore_emissive"
   }
 }

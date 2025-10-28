@@ -4,6 +4,6 @@
   "parent": "minecraft:block/cube_all_overlay",
   "textures": {
     "base": "minecraft:block/solid/infested_stone",
-    "overlay": "minecraft:block/solid/infested_stone_emmersive"
+    "overlay": "minecraft:block/solid/infested_stone_emissive"
   }
 }

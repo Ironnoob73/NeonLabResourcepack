@@ -7,7 +7,7 @@
   "parent": "minecraft:block/cube_all_outline_overlay",
   "textures": {
     "base": "minecraft:block/obsidian",
-    "overlay": "minecraft:block/obsidian_emmersive",
+    "overlay": "minecraft:block/obsidian_emissive",
     "outline": "minecraft:block/obsidian_outline"
   }
 }

@@ -6,7 +6,7 @@
     "side": "minecraft:block/jukebox_side",
     "top": "minecraft:block/jukebox_top",
     "bottom": "minecraft:block/solid/jukebox_bottom",
-    "side_overlay": "minecraft:block/jukebox_side_emmersive",
+    "side_overlay": "minecraft:block/jukebox_side_emissive",
     "top_overlay": "minecraft:block/solid/null",
     "bottom_overlay": "minecraft:block/solid/null"
   }

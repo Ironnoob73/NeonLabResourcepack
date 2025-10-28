@@ -6,6 +6,6 @@
     "end": "minecraft:block/sandstone_top",
     "side": "minecraft:block/chiseled_sandstone",
     "end_overlay": "minecraft:block/solid/null",
-    "side_overlay": "minecraft:block/chiseled_sandstone_emmersive"
+    "side_overlay": "minecraft:block/chiseled_sandstone_emissive"
   }
 }

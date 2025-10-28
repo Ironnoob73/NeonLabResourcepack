@@ -6,8 +6,8 @@
     "side": "minecraft:block/jukebox_side",
     "top": "minecraft:block/solid/jukebox_top_has_record",
     "bottom": "minecraft:block/solid/jukebox_bottom_has_record",
-    "side_overlay": "minecraft:block/jukebox_side_emmersive",
-    "top_overlay": "minecraft:block/solid/jukebox_top_has_record_emmersive",
-    "bottom_overlay": "minecraft:block/solid/jukebox_bottom_has_record_emmersive"
+    "side_overlay": "minecraft:block/jukebox_side_emissive",
+    "top_overlay": "minecraft:block/solid/jukebox_top_has_record_emissive",
+    "bottom_overlay": "minecraft:block/solid/jukebox_bottom_has_record_emissive"
   }
 }

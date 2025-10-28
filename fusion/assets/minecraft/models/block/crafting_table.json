@@ -6,9 +6,9 @@
         "top": "minecraft:block/crafting_table_top",
         "front": "minecraft:block/crafting_table_front",
         "side": "minecraft:block/crafting_table_side",
-        "top_overlay": "minecraft:block/crafting_table_top_emmersive",
-        "front_overlay": "minecraft:block/crafting_table_front_emmersive",
-        "side_overlay": "minecraft:block/crafting_table_side_emmersive",
+        "top_overlay": "minecraft:block/crafting_table_top_emissive",
+        "front_overlay": "minecraft:block/crafting_table_front_emissive",
+        "side_overlay": "minecraft:block/crafting_table_side_emissive",
         "particle": "#front"
     },
     "elements": [

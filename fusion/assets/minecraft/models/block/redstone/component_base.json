@@ -9,8 +9,8 @@
 		"particle": "block/smooth_stone",
 		"top": "block/solid/smooth_stone",
 		"side": "block/smooth_stone_slab_side",
-		"top_overlay": "block/solid/smooth_stone_emmersive",
-		"side_overlay": "block/smooth_stone_slab_side_emmersive"
+		"top_overlay": "block/solid/smooth_stone_emissive",
+		"side_overlay": "block/smooth_stone_slab_side_emissive"
 	},
 	"elements": [
 		{

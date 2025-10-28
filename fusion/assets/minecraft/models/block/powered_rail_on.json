@@ -4,6 +4,6 @@
   "parent": "minecraft:block/rail_flat",
   "textures": {
     "rail": "minecraft:block/powered_rail_on",
-    "overlay": "minecraft:block/powered_rail_on_emmersive"
+    "overlay": "minecraft:block/powered_rail_on_emissive"
   }
 }
