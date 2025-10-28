@@ -1,5 +1,7 @@
 {
     "rpo.neonLab": "霓虹实验室",
-    "rpo.neonLab.fusionFeature": "Fusion纹理特性",
-    "rpo.neonLab.continuityFeature": "Continuity纹理特性"
+    "rpo.neonLab.supportSelection": "模组支持选择",
+    "rpo.neonLab.supportSelection.tooltip": "如果你同时安装了Fusion和Continuity并导致贴图损坏，请在此关闭对其中一个模组的支持。",
+    "rpo.neonLab.supportSelection.fusionFeature": "Fusion纹理特性",
+    "rpo.neonLab.supportSelection.continuityFeature": "Continuity纹理特性"
 }

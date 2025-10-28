@@ -1,4 +1,4 @@
 {
-    condition: "!fusionFeature",
-    fallback: "pack_with_fusion.mcmeta"
+    condition: "supportSelection.fusionFeature",
+    fallback: "pack_no_fusion.mcmeta"
 }

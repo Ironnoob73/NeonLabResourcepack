@@ -7,7 +7,7 @@
     "description": "Cartoon Sci-fi Themed Resourcepack \u00A7b\u00A7oBy LD_Anvil"
   },
   "fusion": {
-      "overrides_folder": "fusion",
+      "overrides_folder": "no_fusion",
       "min_version": "1.2.0"
   }
 }

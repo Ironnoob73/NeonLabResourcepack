@@ -1,5 +1,7 @@
 {
     "rpo.neonLab": "Neon Lab",
-    "rpo.neonLab.fusionFeature": "Fusion Feature",
-    "rpo.neonLab.continuityFeature": "Continuity Feature"
+    "rpo.neonLab.supportSelection": "Mod Support Selection",
+    "rpo.neonLab.supportSelection.tooltip": "If you have both Fusion and Continuity installed and the textures are broken, please disable support for one of the mods here.",
+    "rpo.neonLab.supportSelection.fusionFeature": "Fusion Feature",
+    "rpo.neonLab.supportSelection.continuityFeature": "Continuity Feature"
 }

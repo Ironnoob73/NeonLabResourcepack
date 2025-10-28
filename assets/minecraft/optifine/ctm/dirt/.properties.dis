@@ -1,0 +1,6 @@
+matchTiles=dirt
+connectBlocks=dirt grass_block podzol mycelium dirt_path coarse_dirt rooted_dirt farmland
+method=overlay_ctm
+tiles=0-46
+
+I WONDER WHY IT CANT CONNECT TO OTHER BLOCKS

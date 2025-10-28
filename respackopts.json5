@@ -3,7 +3,9 @@
     version: 13,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
-        fusionFeature: true,
-        continuityFeature: true
+        supportSelection: {
+            fusionFeature: true,
+            continuityFeature: true
+        }
     }
 }
