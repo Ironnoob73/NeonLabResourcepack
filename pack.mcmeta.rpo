@@ -1,0 +1,4 @@
+{
+    condition: "!fusionFeature",
+    fallback: "pack_with_fusion.mcmeta"
+}

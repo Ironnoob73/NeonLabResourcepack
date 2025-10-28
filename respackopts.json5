@@ -1,0 +1,9 @@
+{
+    id: "neonLab",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        fusionFeature: true,
+        continuityFeature: true
+    }
+}

@@ -5,5 +5,9 @@
     "min_format": 15,
     "max_format": [69,0],
     "description": "Cartoon Sci-fi Themed Resourcepack \u00A7b\u00A7oBy LD_Anvil"
+  },
+  "fusion": {
+      "overrides_folder": "fusion",
+      "min_version": "1.2.0"
   }
 }
