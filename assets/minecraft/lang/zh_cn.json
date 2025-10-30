@@ -3,7 +3,7 @@
     "rpo.neonLab.supportSelection": "模组支持选择",
     "rpo.neonLab.supportSelection.tooltip": "如果你同时安装了Fusion和Continuity并导致贴图损坏，请在此关闭对其中一个模组的支持。",
     "rpo.neonLab.supportSelection.fusionFeature": "Fusion纹理特性",
-    "rpo.neonLab.supportSelection.fusionFeature.tooltip": "概率性失效或使游戏无法启动！如果出现问题请多次开启、关闭该选项直至效果正常。",
+    "rpo.neonLab.supportSelection.fusionFeature.tooltip": "概率性失效或使游戏无法启动！如果出现问题请重载资源。",
     "rpo.neonLab.supportSelection.continuityFeature": "Continuity纹理特性",
     
     "advancements.story.mine_stone.title": "我很确定这些是塑料",

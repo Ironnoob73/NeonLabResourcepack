@@ -3,7 +3,7 @@
     "rpo.neonLab.supportSelection": "Mod Support Selection",
     "rpo.neonLab.supportSelection.tooltip": "If you have both Fusion and Continuity installed and the textures are broken, please disable support for one of the mods here.",
     "rpo.neonLab.supportSelection.fusionFeature": "Fusion Feature",
-    "rpo.neonLab.supportSelection.fusionFeature.tooltip": "This option may fail or may cause the game to fail to launch! If you encounter this problem, please try turning this option on and off repeatedly until it works correctly.",
+    "rpo.neonLab.supportSelection.fusionFeature.tooltip": "This option may fail or may cause the game to fail to launch! If you encounter this problem, please reload the resources.",
     "rpo.neonLab.supportSelection.continuityFeature": "Continuity Feature",
     
     "advancements.story.mine_stone.title": "I'm pretty sure these are plastic",
