@@ -1,0 +1,14 @@
+{
+    "textures": {
+        "content": "minecraft:block/lava_still"
+    },
+    "elements": [
+        {
+            "from": [ 2, 4, 2 ],
+            "to": [ 14, 15, 14 ],
+            "faces": {
+                "up": { "texture": "#content" }
+            }
+        }
+    ]
+}

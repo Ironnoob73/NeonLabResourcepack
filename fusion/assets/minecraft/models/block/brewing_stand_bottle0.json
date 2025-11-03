@@ -1,0 +1,49 @@
+{
+    "loader": "fusion:model",
+    "type": "base",
+    "textures": {
+        "particle": "block/brewing_stand",
+        "base": "block/solid/brewing_stand_base_used",
+        "stand": "block/brewing_stand",
+        "base_overlay": "block/solid/brewing_stand_base_used_emissive",
+        "stand_overlay": "block/brewing_stand_emissive"
+    },
+    "elements": [
+        {   "from": [ 8, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 8, 16 ], "texture": "#stand" },
+                "south": { "uv": [ 8, 0, 0, 16 ], "texture": "#stand" }
+            }
+        },
+        {   "from": [ 8, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 8, 16 ], "texture": "#stand_overlay" },
+                "south": { "uv": [ 8, 0, 0, 16 ], "texture": "#stand_overlay" }
+            }
+        },
+        {   "from": [ 9, 0, 5 ],
+            "to": [ 15, 2, 11 ],
+            "faces": {
+                "down":  { "uv": [ 9,  5, 15, 11 ], "texture": "#base", "cullface": "down" },
+                "up":    { "uv": [ 9,  5, 15, 11 ], "texture": "#base" },
+                "north": { "uv": [ 9, 14, 15, 16 ], "texture": "#base" },
+                "south": { "uv": [ 9, 14, 15, 16 ], "texture": "#base" },
+                "west":  { "uv": [ 5, 14, 11, 16 ], "texture": "#base" },
+                "east":  { "uv": [ 5, 14, 11, 16 ], "texture": "#base" }
+            }
+        },
+        {   "from": [ 9, 0, 5 ],
+            "to": [ 15, 2, 11 ],
+            "faces": {
+                "down":  { "uv": [ 9,  5, 15, 11 ], "texture": "#base_overlay", "cullface": "down" },
+                "up":    { "uv": [ 9,  5, 15, 11 ], "texture": "#base_overlay" },
+                "north": { "uv": [ 9, 14, 15, 16 ], "texture": "#base_overlay" },
+                "south": { "uv": [ 9, 14, 15, 16 ], "texture": "#base_overlay" },
+                "west":  { "uv": [ 5, 14, 11, 16 ], "texture": "#base_overlay" },
+                "east":  { "uv": [ 5, 14, 11, 16 ], "texture": "#base_overlay" }
+            }
+        }
+    ]
+}

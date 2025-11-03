@@ -1,0 +1,18 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parents": [
+    "minecraft:block/cauldron",
+    "minecraft:block/additional/snow_cauldron_level2"
+  ],
+  "textures": {
+    "bottom": "minecraft:block/cauldron_bottom",
+    "inside": "minecraft:block/solid/cauldron/snow_cauldron_inner_1",
+    "particle": "minecraft:block/cauldron_side",
+    "side": "minecraft:block/solid/cauldron/snow_cauldron_side_1",
+    "top": "minecraft:block/solid/cauldron/snow_cauldron_top_1",
+    "inside_overlay": "minecraft:block/solid/cauldron/snow_cauldron_inner_1_emissive",
+    "side_overlay": "minecraft:block/solid/cauldron/snow_cauldron_side_1_emissive",
+    "top_overlay": "minecraft:block/solid/cauldron/snow_cauldron_top_1_emissive"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "loader": "fusion:model",
+  "type": "base",
+  "parents": [
+    "minecraft:block/cauldron",
+    "minecraft:block/additional/lava_cauldron"
+  ],
+  "textures": {
+    "bottom": "minecraft:block/cauldron_bottom",
+    "inside": "minecraft:block/solid/cauldron/lava_cauldron_inner",
+    "particle": "minecraft:block/cauldron_side",
+    "side": "minecraft:block/solid/cauldron/lava_cauldron_side",
+    "top": "minecraft:block/cauldron_top"
+  }
+}
