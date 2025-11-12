@@ -4,7 +4,8 @@
   "parent": "minecraft:block/block",
   "textures": {
     "all": "minecraft:block/spawner",
-    "overlay": "minecraft:block/spawner_emissive"
+    "overlay": "minecraft:block/spawner_emissive",
+    "particle": "#all"
   },
   "elements": [
     {
