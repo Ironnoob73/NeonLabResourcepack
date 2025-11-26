@@ -1,0 +1,12 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "connections": [
+    { "type": "is_same_block"}
+  ],
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/jungle_log_top",
+    "side": "minecraft:block/jungle_log"
+  }
+}
