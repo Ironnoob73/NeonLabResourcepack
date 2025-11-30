@@ -1,0 +1,20 @@
+{
+  	"loader": "fusion:model",
+  	"type": "base",
+	"ambientocclusion": false,
+	"textures": {
+		"overlay": "block/flower_pot_emissive"
+	},
+	"elements": [
+		{
+			"from": [4.95, 3, 4.95],
+			"to": [11.05, 4, 11.05],
+			"faces": {
+				"north": {"uv": [5, 12, 11, 13], "texture": "#overlay"},
+				"east": {"uv": [5, 12, 11, 13], "texture": "#overlay"},
+				"south": {"uv": [5, 12, 11, 13], "texture": "#overlay"},
+				"west": {"uv": [5, 12, 11, 13], "texture": "#overlay"}
+			}
+		}
+	]
+}
