@@ -3,8 +3,8 @@
     "type": "base",
     "textures": {
         "particle": "block/brewing_stand",
-        "base": "block/solid/brewing_stand_base_used",
-        "stand": "block/brewing_stand",
+        "base": "block/solid/brewing_stand_base_used_f",
+        "stand": "block/solid/brewing_stand",
         "base_overlay": "block/solid/brewing_stand_base_used_emissive",
         "stand_overlay": "block/brewing_stand_emissive"
     },

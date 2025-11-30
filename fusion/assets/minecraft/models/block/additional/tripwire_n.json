@@ -1,0 +1,28 @@
+{
+  	"loader": "fusion:model",
+  	"type": "base",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/solid/tripwire",
+		"texture": "block/solid/tripwire"
+	},
+	"elements": [
+		{
+			"from": [6, 1, 0],
+			"to": [10, 1, 6],
+			"shade": false,
+			"faces": {
+				"up": {"uv": [1, 4, 7, 8], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [16, 4, 10, 8], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6, 1, 6],
+			"to": [10, 1, 10],
+			"faces": {
+				"up": {"uv": [12, 12, 16, 16], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [12, 12, 16, 16], "rotation": 270, "texture": "#texture"}
+			}
+		}
+	]
+}

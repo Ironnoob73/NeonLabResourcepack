@@ -1,0 +1,11 @@
+{
+  "animation": {
+    "frametime": 5,
+    "interpolate": true
+  },
+   "fusion": {
+      "type": "base",
+      "emissive": true,
+      "render_type": "cutout"
+   }
+}
