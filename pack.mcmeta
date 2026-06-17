@@ -1,9 +1,9 @@
 {
   "pack": {
     "pack_format": 34,
-    "supported_formats": [15, 69],
+    "supported_formats": [15, 88],
     "min_format": 15,
-    "max_format": [69,0],
+    "max_format": 88,
     "description": "Cartoon Sci-fi Themed Resourcepack \u00A7b\u00A7oBy LD_Anvil"
   },
   "fusion": {
