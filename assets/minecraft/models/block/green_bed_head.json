@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_bed_head",
+  "textures": {
+    "north": "minecraft:block/solid/bed/green_bed_head_north",
+    "east": "minecraft:block/green_bed_head_east",
+    "up": "minecraft:block/green_bed_head_up",
+    "west": "minecraft:block/green_bed_head_west",
+    "down": "minecraft:block/solid/bed/green_bed_head_down"
+  }
+}

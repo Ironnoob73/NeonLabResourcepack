@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_bed_head",
+  "textures": {
+    "north": "minecraft:block/solid/bed/yellow_bed_head_north",
+    "east": "minecraft:block/yellow_bed_head_east",
+    "up": "minecraft:block/yellow_bed_head_up",
+    "west": "minecraft:block/yellow_bed_head_west",
+    "down": "minecraft:block/solid/bed/yellow_bed_head_down"
+  }
+}
